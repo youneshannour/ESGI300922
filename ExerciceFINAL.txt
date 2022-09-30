@@ -1,0 +1,44 @@
+Exercice 1
+1) Done
+2) Quelles sont les branches disponibles ?
+ gh-pages (accessible)
+ spdx-license-templates ( non accessible)
+
+
+
+Exercice2
+1)Quel est le numéro de la dernière pull request?
+  Add Free Art License 1.3
+  Related Issue: #314
+
+2)Combien de commit contient la pull request #550 ?
+  la pull request #550 contient 2 commit
+
+3)Quel est le numéro, combien de commit, et quel est l’auteur dans la pull request du
+commit de merge 8061f2f ?
+  Le numéro de commit : 549
+  Le nombre de commit : 2
+  L'auteur            : Josh Soref (jsoref)
+
+
+Exercice 3 :
+1) la commande pour revenir à la version précédente sur le fichier “index.html” 
+  git reset index.html
+
+2) Un plugin javascript a été supprimé dans le
+commit b30306e502b99aabab256a5d2f68e8d50ba5072a, quel est le nom du plugin
+supprimé ?
+  complete-auto.min.js
+
+
+3) Quelle est la commande pour voir les fichiers modifiés dans ce commit ?
+  git diff b30306e502b99aabab256a5d2f68e8d50ba5072a
+
+
+4) Quelle est la commande pour récupérer le plugin supprimé ?
+  git revert  
+
+
+Exercice 4 :
+- git fetch 
+
